@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{581673C5-07B9-4FBF-8695-23AA6BAB6636}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crowd Funding/Models/DonationsModel.cs">
+    <Files>
+      <File FileName="Crowd Funding/Models/DonationsModel.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crowd Funding" expanded="True">
+            <Node name="Crowd Funding" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="DonationsModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Crowd_220Funding PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

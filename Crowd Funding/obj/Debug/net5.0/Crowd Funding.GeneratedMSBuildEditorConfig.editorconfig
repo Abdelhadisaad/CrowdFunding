@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Crowd_Funding
-build_property.ProjectDir = C:\Users\abdal\source\repos\Crowd Funding\Crowd Funding\
+build_property.ProjectDir = /Users/mosher/Documents/GitHub/CrowdFunding/Crowd Funding/
