@@ -1,15 +1,23 @@
 ﻿<Properties StartupConfiguration="{581673C5-07B9-4FBF-8695-23AA6BAB6636}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Crowd Funding/Models/DonationsModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crowd Funding/Controllers/LoginController.cs">
     <Files>
-      <File FileName="Crowd Funding/Models/DonationsModel.cs" Line="7" Column="10" />
+      <File FileName="Crowd Funding/Views/Admin Dashboard/AdminDashboard.cshtml" Line="1" Column="25" />
+      <File FileName="Crowd Funding/Views/Login/Index.cshtml" Line="4" Column="7" />
+      <File FileName="Crowd Funding/Controllers/LoginController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Crowd Funding" expanded="True">
             <Node name="Crowd Funding" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="DonationsModel.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="LoginController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Admin Dashboard" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Login" expanded="True" />
               </Node>
             </Node>
           </Node>

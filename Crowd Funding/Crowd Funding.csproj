@@ -10,4 +10,10 @@
     <PackageReference Include="MySql.Data" Version="8.0.27" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Views\Admin Dashboard\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Admin Dashboard\" />
+  </ItemGroup>
 </Project>

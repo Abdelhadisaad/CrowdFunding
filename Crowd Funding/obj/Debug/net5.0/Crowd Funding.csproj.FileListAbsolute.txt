@@ -242,3 +242,4 @@ C:/Users/abdal/source/repos/Crowd Funding/Crowd Funding/obj/Debug/net5.0/Razor/V
 /Users/mosher/Documents/GitHub/CrowdFunding/Crowd Funding/obj/Debug/net5.0/ref/Crowd Funding.dll
 /Users/mosher/Documents/GitHub/CrowdFunding/Crowd Funding/obj/Debug/net5.0/Crowd Funding.pdb
 /Users/mosher/Documents/GitHub/CrowdFunding/Crowd Funding/obj/Debug/net5.0/Crowd Funding.genruntimeconfig.cache
+/Users/mosher/Documents/GitHub/CrowdFunding/Crowd Funding/obj/Debug/net5.0/Razor/Views/Admin Dashboard/Index.cshtml.g.cs
